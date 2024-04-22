@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "49266914884",
+    "project_id": "secretcomms-6de0e",
+    "storage_bucket": "secretcomms-6de0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49266914884:android:11cf6ef390500ffa392e11",
+        "android_client_info": {
+          "package_name": "com.example.secret_comms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNoJhwdlbjZti552jPTJYn3b4Zqpq8Ue8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
